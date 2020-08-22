@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg-chat",
+    "host": "192.168.1.200",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg-chat",
+    "host": "192.168.1.200",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg-chat",
+    "host": "192.168.1.200",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
